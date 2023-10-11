@@ -36,5 +36,8 @@ If you are using [Flutter Version Management](https://fvm.app/)
 fvm flutter run  
 ```
 
+<h1 align="center">
+  <img src="https://github.com/rubone/getx_theme/assets/1043247/c7e9bfc8-1f13-4bc7-b615-36aec4fa7831" alt="drawing" style="width:300px; height:600px;"/>
+</h1>
 
 Happy Coding! :v:
